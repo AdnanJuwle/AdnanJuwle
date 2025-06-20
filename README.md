@@ -40,7 +40,7 @@
 </ul>
 
 <p align="left"> 
-📫 How to reach me: <strong>adnan.your@email.com</strong>
+📫 How to reach me: <strong>adnanjuwle1@gmail.com</strong>
 </p>
 
 <p align="left"> 
@@ -71,11 +71,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Adnan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdnanJuwle&show_icons=true&theme=tokyonight" alt="Adnan's GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="Adnan's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanJuwle&theme=tokyonight" alt="Adnan's GitHub streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Adnan's most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanJuwle&layout=compact&theme=tokyonight" alt="Adnan's most used languages"/>
 </p>
