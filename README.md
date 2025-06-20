@@ -44,7 +44,7 @@
 </p>
 
 <p align="left"> 
-📄 Know about my experiences: <a href="https://www.linkedin.com/in/yourprofile/" target="blank">LinkedIn</a>
+📄 Know about my experiences: <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/adnan-juwle-b04816246/)" target="blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
